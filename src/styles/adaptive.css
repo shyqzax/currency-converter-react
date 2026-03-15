@@ -1,0 +1,52 @@
+@media (max-width: 480px) {
+  .content {
+    padding: 24px 16px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .selection {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .currency {
+    width: 100%;
+  }
+
+  .swap-btn {
+    margin: 8px auto;
+    width: 44px;
+    height: 44px;
+    font-size: 20px;
+  }
+
+  .sum {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  input[type="number"] {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .result {
+    font-size: 20px;
+    padding: 12px;
+  }
+
+  .search-wrapper {
+    margin: 2px 0;
+  }
+
+  .search-wrapper input {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+}
